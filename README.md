@@ -44,7 +44,7 @@ To use replacements, add a replacements.json file to the CWD. The format of the 
     [
 	    {
 		    "name": "Red vs. Blue",
-			"description": "Red vs. Blue episodes, seasons 1 - 8.\nCirca 2003 - 2010.",
+		    "description": "Red vs. Blue episodes, seasons 1 - 8.\nCirca 2003 - 2010.",
 		    "poster": "redvsblue.jpg"
 	    },
 	    {
